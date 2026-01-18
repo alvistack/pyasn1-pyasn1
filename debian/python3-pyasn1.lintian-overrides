@@ -1,0 +1,4 @@
+python3-pyasn1: copyright-without-copyright-notice
+python3-pyasn1: initial-upload-closes-no-bugs
+python3-pyasn1: no-manual-page
+python3-pyasn1: zero-byte-file-in-doc-directory
