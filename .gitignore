@@ -25,3 +25,5 @@ docs/source/.templates/layout.html
 
 # Virtual envs
 venv*
+
+.pybuild

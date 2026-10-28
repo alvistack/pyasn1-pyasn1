@@ -1,0 +1,4 @@
+python-pyasn1 source: file-without-copyright-information
+python-pyasn1 source: no-debian-changes
+python-pyasn1 source: source-contains-prebuilt-windows-binary
+python-pyasn1 source: source-package-encodes-python-version
